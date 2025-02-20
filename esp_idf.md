@@ -25,6 +25,13 @@ after installing the extension you will have to install the [walter modem](https
 
 >vscode quikmenu command:
 ```
->ESP-IDF: SHow ESP Component Registry
+>ESP-IDF: Show ESP Component Registry
+```
+
+#### Device Target
+after installing the walter modem extension the Device Target needs to be set to esp32s3 (this needs to be done for each project)
+>vscode quikmenu command:
+```
+>ESP-IDF: Set Espressif Device Target
 ```
 ## examples
